@@ -1,0 +1,35 @@
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.AssemblyInfo.cs
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.deps.json
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.runtimeconfig.json
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.dll
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.pdb
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Domain.dll
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Domain.pdb
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\Cookbook.C9932C7F.Up2Date
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.dll
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\refint\CookbookAPI.Data.dll
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.pdb
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.genruntimeconfig.cache
+C:\Users\anton\Documents\Rumos Recipe Project\API\CookbookAPI.Data\obj\Debug\net8.0\ref\CookbookAPI.Data.dll
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.deps.json
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.runtimeconfig.json
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.dll
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Data.pdb
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Domain.dll
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\bin\Debug\net8.0\CookbookAPI.Domain.pdb
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.AssemblyInfo.cs
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.sourcelink.json
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\Cookbook.C9932C7F.Up2Date
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.dll
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\refint\CookbookAPI.Data.dll
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.pdb
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\CookbookAPI.Data.genruntimeconfig.cache
+C:\Users\anton\Documents\CodeDeveloper - Entrega de Projeto Antonio Menezes\API\CookbookAPI.Data\obj\Debug\net8.0\ref\CookbookAPI.Data.dll
